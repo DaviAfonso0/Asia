@@ -14,8 +14,7 @@ body{
     background-attachment: fixed;
 }
 .container{
-    margin: 20px 10px 5px 10px;
-    position: relative;
+    margin: 20px 10px 5px 20px;
     display: inline-block;
 }
 .japao{
